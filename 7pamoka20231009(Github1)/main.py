@@ -1,12 +1,12 @@
 # :q - iseiti i terminala
 # ls -a - parodo pasleptas direktorijas
-# git add . - ideda visas dire
 
 # git status                          Raudona -   pakeitimai
 # git add . 
 # git status                          Zalia   -   start tracking all files
 # git commit -m "renaiming dir"       Balta   -   sukurti commit'ą , kuris yra tiesiog projekto istorijos taškas, rodantis, kas buvo pakeista, kas ir kada tai padarė.
 # git push                                    -   siųsti(pushinti)
+# git pull                                    -   nurodo git "pullinti" naujausius pakeitimus iš remote (github)
 
 
 # Lesson 7: Git Github (Part 1)
