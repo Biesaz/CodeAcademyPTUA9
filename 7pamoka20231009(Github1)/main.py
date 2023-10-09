@@ -2,10 +2,11 @@
 # ls -a - parodo pasleptas direktorijas
 # git add . - ideda visas dire
 
-git status                          Raudona -   pakeitimai
-git add .                           Zalia   -   start tracking all files
-git commit -m "renaiming dir"       Balta   -   sukurti commit'ą , kuris yra tiesiog projekto istorijos taškas, rodantis, kas buvo pakeista, kas ir kada tai padarė.
-git push                                    -   siųsti(pushinti)
+# git status                          Raudona -   pakeitimai
+# git add . 
+# git status                          Zalia   -   start tracking all files
+# git commit -m "renaiming dir"       Balta   -   sukurti commit'ą , kuris yra tiesiog projekto istorijos taškas, rodantis, kas buvo pakeista, kas ir kada tai padarė.
+# git push                                    -   siųsti(pushinti)
 
 
 # Lesson 7: Git Github (Part 1)
